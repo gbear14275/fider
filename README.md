@@ -72,3 +72,6 @@ Read our [CONTRIBUTING](CONTRIBUTING.md) guide to learn how you can contribute t
 ---
 
 ❤️ Love using Fider? [Give us a review!](https://love.fider.io/r/sp8FmI)
+
+Testing [Phylum](https://phylum.io/)
+
